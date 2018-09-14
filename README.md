@@ -23,9 +23,9 @@ In Unity Tab bar, Click File -> Build, then install apk into your phone.
 #### And more...
 
 ## Screenshots
-|                    LOGIN                     |                  SEARCH               |     
+|                    IDLE                     |                  ATTACK               |     
 | ------------------------------------------- |--------------------------------------------|
-|![Login](https://i.imgur.com/g86uHCH.png)     |![Search](https://i.imgur.com/97dpZ1U.png)|
+|![Idle](https://i.imgur.com/tHmAGzO.gif)    |![Attack](https://imgur.com/ttFRFZb)     
 
 ## More
 |                    Home                     |                  Details                   |                  Category               |                  Product               |      
