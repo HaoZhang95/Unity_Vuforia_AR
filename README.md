@@ -25,19 +25,10 @@ In Unity Tab bar, Click File -> Build, then install apk into your phone.
 ## Screenshots
 |                    IDLE                     |                  ATTACK               |     
 | ------------------------------------------- |--------------------------------------------|
-|![Idle](https://i.imgur.com/tHmAGzO.gif)    |![Attack](https://imgur.com/ttFRFZb)     
-
-## More
-|                    Home                     |                  Details                   |                  Category               |                  Product               |      
-| ------------------------------------------- |--------------------------------------------|-----------------------------------------|-----------------------------------------|
-|![Home](https://i.imgur.com/FFeesdD.png)     |![Details](https://i.imgur.com/GgcDsuk.png) |![Category](https://i.imgur.com/Vg5eQXN.png)|![Product](https://i.imgur.com/vf0Wo3L.png)|
-
-
-## Documentation
-More details can be found in [trello](https://trello.com/b/t4OQWk48/team-blank)
+|![Idle](https://github.com/HaoZhang95/Unity_Vuforia_AR/blob/master/41545998_317783435663967_2782868675839918080_n.gif)    |![Attack](https://github.com/HaoZhang95/Unity_Vuforia_AR/blob/master/IMG_1097.gif)     
 
 ## Test
-This app was tested successfully on iPhone SE IOS 10.3.3 and Chrome browser.
+This app was tested successfully on Piexl android os 8.0.
 
 
 
