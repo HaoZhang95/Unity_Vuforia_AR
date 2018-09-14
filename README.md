@@ -7,6 +7,7 @@ And when two cards come close to each other, these dinasaurs begin to attack eac
 - 3D Dinosaur assets unitypackage (Download in [google drive](https://drive.google.com/file/d/1qJdX75XvQNxZoT5Nv2TTWU8urx_dT5qb/view?usp=sharing) )
 - Vuforia SDK (included in Unity_Assets_Librarys folder or can be downloaded in Vuforia official website )
 - Unity
+- images can be found in material folder
 - Smart phone which support ARCore
 
 ### 1. Unity
