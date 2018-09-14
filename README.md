@@ -25,7 +25,7 @@ In Unity Tab bar, Click File -> Build, then install apk into your phone.
 ## Screenshots
 |                    IDLE                     |                  ATTACK               |     
 | ------------------------------------------- |--------------------------------------------|
-|![Idle](https://github.com/HaoZhang95/Unity_Vuforia_AR/blob/master/41545998_317783435663967_2782868675839918080_n.gif)    |![Attack](https://github.com/HaoZhang95/Unity_Vuforia_AR/blob/master/IMG_1097.gif)     
+|![Idle](https://github.com/HaoZhang95/Unity_Vuforia_AR/blob/master/gifs/idle.gif)    |![Attack](https://github.com/HaoZhang95/Unity_Vuforia_AR/blob/master/gifs/attack.gif)     
 
 ## Test
 This app was tested successfully on Piexl android os 8.0.
